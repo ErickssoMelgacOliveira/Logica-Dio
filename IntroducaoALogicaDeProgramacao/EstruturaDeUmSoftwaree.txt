@@ -1,1 +1,6 @@
 Features:Funções da aplicação 
+
+IDE: É uma ferramenta de programação que ajuda a fazer códigos de uma maneira mais fácil, além de editar eles facilitam o acesso a códigos e ferramentas de programação.
+
+(Às vezes podemos ficar com medo do ambiente de trabalho, o que ajuda é conhecer, fuçar a IDE mexer em tudo ler e mexer em tudo, conhecer seu local de trabalho ficando assim mais confortável com algo que você já conhece. Saia do caminho óbvio, explore os códigos e aprendizados, as funções e ferramentas.)
+
