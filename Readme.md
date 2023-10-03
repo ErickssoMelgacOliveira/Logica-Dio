@@ -6,7 +6,12 @@ Pensamento lógico base de Algoritmo, algoritmo:é uma sequência de comandos pa
 
 Fluxograma: uma maneira visual de ver o pensamento imaginário no mundo real. 
  
+Estrutura de um programa: 
+Input : momentos de interação com o usuário 
+ 
+Process:Sao verificações e ações para realizar o pedido do usuário 
 
+Output : São comandos de saída para retornar os resultados
 
 
 
