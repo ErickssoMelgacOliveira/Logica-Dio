@@ -1,0 +1,55 @@
+"Vetores e Matrizes"
+
+"Coleção code":  
+"Vetor": 
+"Let pokemon = [“pikachu”, “charmander”,”bulbasaur”] 
+console.log (pokemon)"
+
+Como pegar um item dentro de um armário, para isso precisamos indicar posições dos itens,"as" posições não começam do 1 elas começam do 0. Assim acessando cada item guardado no armário. 
+
+Existem muitas ferramentas para edição de vetores como por exemplo : 
+".shift"
+".pop"
+
+os mesmos vetores são usados em todos linguagens, assim como todos o conteudo ate agora.
+
+javascripth array documentacao, se pesquisar na internet pode ler todos os comandos de possiveis. 
+
+Matrizes ou Vetores Bidimensionais 
+ Matrizes é uma maneira de organizar informações extras dentro de um vetor seguindo pela ordem horizontal ou em linha 
+ "EX": 0,1,2,3... enquanto um vetor em coluna 
+ "Ex":0
+      1
+      2
+      3
+
+ Ex:
+ 
+             "Vetor"
+
+             "0 (0,1,2,3)
+              1 (0,1,2,3)
+ Matrizes     2 (0,1,2,3)
+              3 (0,1,2,3)"
+ 
+Exemplo de como acessar 
+"Let pokemon = [“pikachu”, “charmander”,”bulbasaur”]             
+                                                        
+
+Let timePokemon = [                     
+    ["pikachu", "M ","nivel 4"]
+    ["charmander","f","nivel 5"]  
+    ["bulbasaur","M","nivel 7"]
+]
+console.log ("pokemon" + timePokemon[1](o primeiro numero é o vetor)[0](o segundo é a Matriz) "
+
+Quando usar Variaveis, Vetor e Matrizes
+
+Quando for uma informações simples como um numero ou nome é uma variavel
+
+Quando for muitas informações um vetor e Quando "for" muitas informações com detalhes usamos Matrizes 
+
+O que podemos fazer tbm com as matrizes são "as" propriedades (normalmente uma caixa de ferramenta azul)que dão detalhes sobre "as" matrizes
+
+Caixas Roxas, são metodos, ferramentas para usar "no" codigo 
+Caixas Azus propriedadesm, informações contidas nas matrizes.
