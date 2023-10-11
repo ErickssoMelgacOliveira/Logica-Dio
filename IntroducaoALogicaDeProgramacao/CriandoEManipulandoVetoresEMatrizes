@@ -1,19 +1,19 @@
 "Vetores e Matrizes"
+
 Quando for uma informação simples como um número ou nome, é uma variável
 
+Quando for muitas informações um Vetor 
 
-Quando for muitas informações um vetor,Quando "for" muitas informações com detalhes usamos Matrizes
-
+Quando "for" muitas informações com detalhes usamos Matrizes
 
 O que podemos fazer também com as matrizes são "as" propriedades (normalmente uma caixa de ferramenta azul)que dão detalhes sobre "as" matrizes
-
 
 Caixas Roxas, são métodos, ferramentas para usar "no" código 
 ".shift"
 ".pop"
 alem de outras
 
-Caixas Azuis propriedades, informações contidas nas matrizes.
+Caixas Azuis propriedades, informações contidas nas matrizes os detalhes.
 
 "Vetor"em um codigo: 
 "Let pokemon = [“pikachu”, “charmander”,”bulbasaur”] 
@@ -53,6 +53,6 @@ Let timePokemon = [
     ["charmander","f","nivel 5"]  
     ["bulbasaur","M","nivel 7"]
 ]
-console.log ("pokemon" + timePokemon[1](o primeiro numero é o vetor)[0](o segundo é a Matriz) "
+console.log ("pokemon") + timePokemon[1](o primeiro numero é o vetor)[0](o segundo é a Matriz) "
 
 Vetores e Matrizes são otimas ferramentas para organizar e listar itens e seus detalhes, podendo gerenciar e organiza-los da melhor forma.
