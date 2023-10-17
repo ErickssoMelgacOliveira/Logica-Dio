@@ -1,0 +1,42 @@
+Operadores e Expressões
+Serven tanto para realizar Operações Matematicas como tambem uma verificações de Dados
+
+Operadores Matematicos com Variaveis
+
+Operadores Aritimeticos(Serven para fazermos calculos)
+
+Adição - + 
+Subtração- -
+Multiplicação - * 
+Divisão - /
+Módulo - % 
+
+Operadores Relacionais (Que Serven para verificarmos a relação entre variaveis)
+
+Igual a - --
+Diferente de- !- 
+Maior que ->
+Menor que - <
+Maior ou igual a- >= 
+Menor ou igual a <=
+
+Operadores Logicos (Que fazem verificações logicas Verdadeiro ou Falso)
+
+And Lógico - &&
+Or Lógico- ll
+Not Lógico- !
+
+Operadores de Atribuição (Atribuir Valores ou Modificar Valores em uma variavel de uma maneira mais inteligente)
+
+Atribuição- =
+Adição e Atribuição- +=
+Subtração e Atribuição- -=
+Multiplicação e Atribuição - *=
+Divisão e Atribuição- /=
+Módulo e Atribuição- %= 
+
+Operadores de Incremento e Decremento (Aumentar ou Diminuir Variaveis)
+Incremento- ++
+Decremento-  --
+
+Esses tipos de operadores como a maioria são gravados com o tempo e a pratica.

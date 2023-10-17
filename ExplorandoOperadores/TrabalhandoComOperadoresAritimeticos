@@ -1,0 +1,83 @@
+Operadores Aritimeticos(Serven para fazermos calculos)
+
+Adição - + 
+
+Ex:
+
+"let idade= 30 "
+"console.log ("valor da minha variavel"+ idade)"
+"idade =30+6 "
+"console.log(idade)"
+"esse codigo precisa ser seguencial(ou seja cada comando vai ser executado linha a linha), a ondem do produto altera os fatores"
+"o sinal de mais alem de adição ele tambem serve pra comcatenar a variavel"
+
+Subtração- -
+Ex:
+
+"let idade= 30 "
+"console.log ("valor da minha variavel"+ idade)"
+"idade =30-6 "
+"console.log(idade)"
+"o mesmo se aplica aqui na subtração"
+
+ou tbm assim
+
+"let cofigoDoProduto= 1023"
+"let codigoExato= cofigoDoProduto -1000"
+"console.log(codigoExato)"
+
+ou tbm 
+
+"let primeiroNumero=1023"
+"let secundoNumero=23"
+"console.log(primeiroNumero - secundoNumero)"
+
+Multiplicação - * 
+Ex:
+
+"let multiplicador= 4"
+"let multiplicando=12"
+"let produto= multiplicador*multiplicando"
+"console.log("resulyadp da multiplicação é"+ produto)"
+
+Divisão - /
+Ex:
+
+"let notaDoMercado= 50"
+"let pessoasParaDividir=2" 
+"console.log("operação de divisão:"+notaDoMercado/)"
+
+
+Módulo - % 
+Para pegar o restante da divisão usando o modolu podemos fazer dessa forma, pegando então o valor restante da ConstantSourceNode
+Ex:
+
+"let notaDoMercado= 50"
+"l"et pessoasParaDividir=2" 
+"console.log("operação de divisão:"+notaDoMercado/)"
+
+"let calculo= 10 % 3"
+"console.log("operação de modulo"+ calculo)"
+
+
+com esse sinal de percentual ele pega o resto da conta
+
+Incremento 
+Ex:
+
+"let contador=1" 
+"contador ++ "escrever ele pega o valor que esta armazenado na memoria assim encrementando ao valor""
+"console.log(contador)"
+
+Decremento
+da mesma maneira para o só mudando o sinal
+Ex:
+
+"let contador=1"
+"contador ++"
+"contador ++ (ate aqui ele aumentou duas vezes ficando no valor de 3 para diminuir isso so precisamos Decrementar o valor)"
+"contador --"
+"contador -- (assim tirando duas vezes o valor que foi incrementado)"
+
+
+"console.log(contador)"
