@@ -1,0 +1,41 @@
+Operadores Lógicos 
+
+Um Operador logico serve para fazer perguntas, perguntas conpostas
+
+Os Mais Comuns 
+
+"ANd"-&& so vai me retornar verdadeiro  quando duas coisas derem true ou verdadeiro
+
+"let idade =18"
+"let vistoVerificado = true"
+"console.log(idade>=18) &&(vistoVerificado===true)"
+"resultado True" 
+
+se qualquer das condiçoes não for verdadeiro o resultado vai dar falso
+
+Operador Or-(||) ou uma ou outra operação for verdadeira ou apenas uma condição ser executada 
+
+"let tempo="sol"
+let iten="guarda chuva"
+let podeSair=(tempo!="chuva")||(iten="guarda chuva")
+console.log("nosso personegem pode sair?"+ podeSair)
+
+personegem sair de casa só se não estiver chovendo ou se estiver de guarda chuva
+
+Operador Not (!)- Nega uma afirmaçao 
+
+Saber se esta chovendo 
+let tempo= "chuva"
+let resultado= tempo =="chuva"(aqui o tempo é igual a chuva)
+console.log(resultado)
+
+true
+
+Se eu quiser fazer a pergunta ao contrario é só adicionar um sinal de esclamação na frente do sinais de igual
+
+let tempo= "chuva"
+let resultado= tempo !=="chuva"(ele nega a afirmação para mudar o resltado )
+console.log(resultado)
+
+false
+

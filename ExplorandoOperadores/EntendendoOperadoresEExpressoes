@@ -40,3 +40,32 @@ Incremento- ++
 Decremento-  --
 
 Esses tipos de operadores como a maioria são gravados com o tempo e a pratica.
+
+Calcular e Atribuir
+
+Operadores de Atribuição, podendo colocar um valor a uma variavel já com um calculo, colocando o sinal do calculo antes do sinal de igual o calulo Matematico podera ser feito de maneira abreviada
+
+Ex:
+
+"let preco= 10
+preco++
+preco++
+preco++
+preco++
+preco++
+console. log (preco )
+resultado 15"
+
+Maneira apreviada:
+
+"let preco= 10
+preco +=5 
+ 
+console.log(preco)
+resultado 15"
+
+funciona com todas Operações de calculo aqui ja listadas 
+
+Expressões Aritimeticas Definir Escopos- colocar valores entre parenteses o calculo sera priorizado, assim podendo delimitar a ordem dos calculos.
+
+

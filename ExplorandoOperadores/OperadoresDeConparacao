@@ -1,0 +1,33 @@
+ Operadores Relacionaveis ou Conparação
+
+ Operadores de igual e diferente = Serven para compararar e conferir 
+
+ "let numero= "1"
+
+ console.log(numero ==1)"
+
+ = é atribuicao 
+ == é para comparar o valor 
+ === é para comparar o valor e o formato do conteudo
+ !== é para verificar se é diferente 
+
+ 
+Sinais de conparaçao entre numeros maiores 
+
+"let idaddeMinima= 18
+let idadeUsuario=17
+let idadePermitidaValida=idadeUsuario >= idaddeMinima"
+
+"console.log(idadePermitidaValida)
+
+resultado false"
+
+ou tambem
+
+"let idadeDeCorte=50"
+"let idadeUsuario=45"
+
+"let resultadoEhTerceiraaIdade=idadeDeCorte<=idadeUsuario
+console.log(idadeTerceirao)"
+
+  
