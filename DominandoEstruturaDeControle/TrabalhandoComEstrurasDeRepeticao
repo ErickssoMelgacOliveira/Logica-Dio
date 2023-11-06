@@ -11,7 +11,7 @@
 
 "}"
 "for" ("vai continuar contando ate a variavel chegar no 4, Assim o for é usado quando precisa de testes continuos ate chegar no valor desejado.Assim")
-"No exemplo usamos o tipo de codigo usando for do tipo contador é muito comun ver essa variavel como (i) ou interrador, mas é recomendado usar o nome de contador.Assim"
+"No exemplo usamos o tipo de codigo usando for do tipo contador é muito comun ver essa variavel como (i) ou interrador , mas é recomendado usar o nome de contador.Assim"
 
 "Cuidados com For" -"nesse caso vamos usar o exemplo de um personagem de um jogo que precisa tomar uma poção para se curar, assim o codigo vai se repetir ate o personagem ficar com o maxino de vida estabelecido pelo codigo "
 
@@ -21,5 +21,38 @@
 "for (let i= 0; i < 11 ; i++)"
 {"pontosDeVida +=1" "console.log"("Tomou poção mágica""+i")}
 "console.log"("pontosDeVida" + "Totais")"
+"resultado"
+"Tomou poção magica 0"
+"Tomou poção magica 1"
+"Tomou poção magica 2"
+"Tomou poção magica 3"
+...
+"Tomou poção magica 11" "parando no onze, nao podemos esquecer que o zero tambem conta, por isso é importante ficar ciente do valor do interrador (i) se tiver zero vai começar do zero"
+
+"While ou Enquanto é uma ferramenta de laço de repetição finita, com limite de repetições"
+"ex"
+"Enquanto o contador for menor que 3 ele sera executado"
+"let contador =0"
+"while(contador<3){console.log("olá")contador++}"
+
+"ou"
+
+"let i=0"
+"while(i<3){console.log("olá")i++}"
+É importante lembrar de incrementar a variavel contadora ao codigo se não ele vai rodar infinitamente que é a parte final do codigo depois do console log"
 
 
+"Do While ou Faça Enquanto"
+
+"let contador =0"
+"do{console.log("olá")contador++}while(contador<3)"
+"resultado"
+"olá"
+"olá"
+"olá"
+
+"Porem pode acontecer tambem"
+"let contador =3" "Se o valor fosse 3 assim saindo da regra do while, mesmo assim o resultado seria um "olá" 
+"do{console.log("olá")contador++}while(contador<3)"
+"olá"
+"Isso acontece porque diferente do while ele executa a linha (do) e depois verifica, então você precisa ter a noção que tudo o que esta dentro do escopo ou linha de codigo do (do)vai ser executado pelo menos uma vez"
