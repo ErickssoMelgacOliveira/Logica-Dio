@@ -28,7 +28,7 @@ resultado
 "o porque deu dois resultados foi pq quando o switch encontra um resultado positivo ele continua executando o que tem abaixo, para pararmos isso usamos uma palavra para parar a execução "do case"
 
 
-"Break"- Dentro do scup fruta ele vai executar todos os "case", com o comando "break" ele vai parar de executar o "case" depois de verificado."
+"Break"- "Dentro do scup fruta ele vai executar todos os "case", com o comando "break" ele vai parar de executar o "case" depois de verificado."
 
 
 "let fruta="banana"
@@ -56,14 +56,14 @@ resultado
 vitamina de banana
 
 
-"Default- É uma mensagem genérica que aparecerá quando nenhuma das opções do case ou alternativas for true, uma mensagem de retorno."
+"Default- "É uma mensagem genérica que aparecerá quando nenhuma das opções do case ou alternativas for true, uma mensagem de retorno."
 "Ex:"
 
 
 "let fruta="Manga"
 
 
-"switch"(fruta)"
+"switch""(fruta)"
 "{
     "case" "laranja:
         "console.log"("suco de laranja")

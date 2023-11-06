@@ -1,4 +1,5 @@
 Operadores e Expressões
+
 Serven tanto para realizar Operações Matematicas como tambem uma verificações de Dados
 
 Operadores Matematicos com Variaveis
@@ -18,7 +19,7 @@ Diferente de- !-
 Maior que ->
 Menor que - <
 Maior ou igual a- >= 
-Menor ou igual a <=
+Menor ou igual a- <=
 
 Operadores Logicos (Que fazem verificações logicas Verdadeiro ou Falso)
 
@@ -47,25 +48,25 @@ Operadores de Atribuição, podendo colocar um valor a uma variavel já com um c
 
 Ex:
 
-"let preco= 10
-preco++
-preco++
-preco++
-preco++
-preco++
-console. log (preco )
-resultado 15"
+"let preco= 10"
+"preco++"
+"preco++"
+"preco++"
+"preco++"
+"preco++"
+"console. log (preco )"
+"resultado 15"
 
-Maneira apreviada:
+"Maneira apreviada:"
 
-"let preco= 10
-preco +=5 
+"let preco= 10"
+"preco +=5"
  
-console.log(preco)
-resultado 15"
+"console.log(preco)"
+"resultado 15"
 
-funciona com todas Operações de calculo aqui ja listadas 
+"funciona com todas Operações de calculo aqui ja listadas" 
 
-Expressões Aritimeticas Definir Escopos- colocar valores entre parenteses o calculo sera priorizado, assim podendo delimitar a ordem dos calculos.
+"Expressões Aritimeticas Definir Escopos- colocar valores entre parenteses o calculo sera priorizado, assim podendo delimitar a ordem dos calculos."
 
 

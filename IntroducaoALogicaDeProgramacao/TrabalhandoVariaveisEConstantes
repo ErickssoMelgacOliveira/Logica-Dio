@@ -1,44 +1,44 @@
-Variável em java: 
-"console.log"(“Digita o nome aqui”) 
+"Variável em java:" 
+"console.log""(“Digita o nome aqui”)" 
 
-let "nickname" =”Apelido aqui”
+"let "nickname"" "=”Apelido aqui”
 
-console.log(“Bem vindo” + nickname) 
+"console.log""(“Bem vindo” + nickname)" 
 
-Variáveis: Em um código existem mensagens de entrada, mensagens de saída e variaveis, a maioria dessas vai ser a mesma mas a variável podem mudar,  
+"Variáveis: Em um código existem mensagens de entrada, mensagens de saída e variaveis, a maioria dessas vai ser a mesma mas a variável podem mudar,"
 
-São informações guardadas na memória que damos um apelido para ela e guardar valores que podem variar ou mudar  
+"São informações guardadas na memória que damos um apelido para ela e guardar valores que podem variar ou mudar"
 
-concatenar: juntar uma parte fixa com uma parte variável 
+"concatenar: juntar uma parte fixa com uma parte variável" 
 
-Diferença entre variáveis e constantes: Uma constante é um valor que se repete que usamos para economizar tempo, salvando ele em uma área do código só para repetimos, ja uma variavel é um valor que sofre alterações com o tempo.
+"Diferença entre variáveis e constantes: Uma constante é um valor que se repete que usamos para economizar tempo, salvando ele em uma área do código só para repetimos, ja uma variavel é um valor que sofre alterações com o tempo."
 
  "const notificacao "=”mensagem aqui”
 
-Declarando variáveis 
- (Não colocar assentos e evitar números, escrevendo o nome em camelCase.) 
+"Declarando variáveis" 
+ "(Não colocar assentos e evitar números, escrevendo o nome em camelCase.)"
 
-EX: 
+"EX:" 
 "let poteCafe "= “café pilão”
-"let poteAcucar"=”Açucar crystal
+"let poteAcucar"=”Açucar crystal"
 "let poteBiscoito"=”Biscoito Maizena”
 
-console log (“Na cozinha da vovó hoje tem:”+
-poteCafe+”-”
-poteAcucar+”-”
-poteBiscoito) 
-(o let é só na primeira linha de código depois não é mas necessário)
+"console log" "(“Na cozinha da vovó hoje tem:”+)"
+"poteCafe+""”-”
+"poteAcucar+"”-”
+"poteBiscoito+"
+"(o let é só na primeira linha de código depois não é mas necessário)"
 
 "poteCafe=cafe 3 coraçoes"
-(atribuir novo valor a variável cafe, se a variável cafe fosse constante daria erro) 
+"(atribuir novo valor a variável cafe, se a variável cafe fosse constante daria erro)" 
 
-constante somente para coisas que se repetem e  não serão alteradas, como por exemplo a mensagem inicial da vovó 
+"constante somente para coisas que se repetem e  não serão alteradas, como por exemplo a mensagem inicial da vovó"
 
-Tipos de Dados Variáveis 
+"Tipos de Dados Variáveis"
  
-Tipo Primitivo: "string"= textos / "number" = Números / "Booleanas" =variáveis lógicas sim ou nao, verdadeiro ou falso.
+"Tipo Primitivo:"" "string"= textos / "number" = Números / "Booleanas" ="variáveis lógicas sim ou nao, verdadeiro ou falso."
 
-Outros tipos são: Inteiro:Armazena numeros inteiros 1,10,-5… , Ponto flutuante: Armazena numeros de casas decimais …. 
+"Outros tipos são: Inteiro:Armazena numeros inteiros 1,10,-5… , Ponto flutuante: Armazena numeros de casas decimais …. "
 
 
 (Se nao for operação matemática as variáveis usa string, mesmo que seja números, se nao for operação matemática se usa string) 

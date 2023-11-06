@@ -1,0 +1,6 @@
+console.log ("Digite o Nome Agui")
+
+let nickname= "Nome de heroi aqui"
+let barraExperiencia="Experiencia"
+
+consol.log=("Bem vindo"+_nickname)
