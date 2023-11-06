@@ -1,0 +1,25 @@
+"Laço de Repetição: È uma condição que vai se repetir ate que o resultado de positivo ou true"
+
+"For"- "é uma ação que você quer repetir algumas vezes"
+"ex:"
+
+"for"("let contador=0;contador" < 4;("essa parte de 4 e para definir um limite para o for se não ele vai ficar rodando infinitamente") "contador++")
+
+"{"
+    "console.log"("contador")
+    "console.log"("aumentar o contador")
+
+"}"
+"for" ("vai continuar contando ate a variavel chegar no 4, Assim o for é usado quando precisa de testes continuos ate chegar no valor desejado.Assim")
+"No exemplo usamos o tipo de codigo usando for do tipo contador é muito comun ver essa variavel como (i) ou interrador, mas é recomendado usar o nome de contador.Assim"
+
+"Cuidados com For" -"nesse caso vamos usar o exemplo de um personagem de um jogo que precisa tomar uma poção para se curar, assim o codigo vai se repetir ate o personagem ficar com o maxino de vida estabelecido pelo codigo "
+
+
+"let pontosDeVida=0"
+
+"for (let i= 0; i < 11 ; i++)"
+{"pontosDeVida +=1" "console.log"("Tomou poção mágica""+i")}
+"console.log"("pontosDeVida" + "Totais")"
+
+

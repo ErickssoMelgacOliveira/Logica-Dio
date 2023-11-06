@@ -1,0 +1,42 @@
+Trabalhando com Condicionais If é quando você faz uma pergunta para o computador 
+
+If
+
+"let ehLigado =False"
+"if(ehLigado){console.log("executou comando")} "
+
+tudo o que executa dentro do if precisa ser igual a true, 
+
+"let ehLigado= false "
+
+"if(1===1){console.log("executou comando")}"
+
+como o comando dentro do if é true ele executa da forma correta
+
+O if permite que o código tome determinados caminhos com condições de comando, um exemplo é 
+
+"se no mercado tiver ovos, compre leite" o comando só vai ser executado se a condição for verdade, então você só vai comprar leite se tiver ovos, isso é o If fazer uma ação com uma condição
+
+Else
+
+E quando o resultado é falso? quando usando o If da falso o programa executa o Else que é o "Se não" do programa.Condicionais
+
+Ex:
+"let possuiOvos= true"
+"let itensComprados= """
+
+"if(possuiOvos){itensComprados = "Leite"}"
+
+"else{console.log("passou na sessão de congelados")itensComprados="Lasanhacongelada"}"
+
+Else If
+
+Que é os dois juntos, podendo assim fazer uma segunda pergunta ou comando 
+
+"let nivelDEFOME= 1"
+
+"if(nivelDEFOME===1){}"
+"else if(nivelDEFOME===2){}"
+"else{console.log("Você comeria um cavalo")}"
+
+Executando comandos em sequência, e com o else if podemos colocar um teste extra no código e o else vai ser executado independente do resultado, se o valor na primeira linha de código fosse aspas o resultado seria o else pois é a última linha de comando que se aplica resultado fora do esperado.

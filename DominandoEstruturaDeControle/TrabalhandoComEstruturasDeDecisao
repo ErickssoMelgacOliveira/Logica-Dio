@@ -1,0 +1,127 @@
+"Switch Case-"
+
+
+"Com o switc case podemos fazer um programa de tomadas de decisão baseado nos dados que fornecemos."
+"Case="Caso" medida de condição, no exemplo abaixo:caso seja banana, fazer vitamina de banana. Switch=Trocar, as funções de tomadas de decisão, ou os caminhos que podemos tomar"
+"Ex"
+
+
+"let fruta="banana""
+
+
+"switch(fruta)"
+{
+    "case" "laranja":
+        "console.log"("suco de laranja")
+    "case" "banan":
+        "console.log"("vitamina de banana")
+    "case" "maça":
+        "console.log"("suco de maçã")
+}"
+resultado
+
+
+"vitamina de banana"
+"suco de maçã"
+
+
+"o porque deu dois resultados foi pq quando o switch encontra um resultado positivo ele continua executando o que tem abaixo, para pararmos isso usamos uma palavra para parar a execução "do case"
+
+
+"Break"- Dentro do scup fruta ele vai executar todos os "case", com o comando "break" ele vai parar de executar o "case" depois de verificado."
+
+
+"let fruta="banana"
+
+
+"switch"(fruta)"
+{
+    "case" "laranja":
+            "console.log("suco de laranja")"
+    "break"
+
+    "case" "banana":
+        "console.log("vitamina de banana")"
+    "break"
+
+
+    "case" "maça":
+        "console.log("suco de maçã")"
+    "break"
+
+    }"
+resultado
+
+
+vitamina de banana
+
+
+"Default- É uma mensagem genérica que aparecerá quando nenhuma das opções do case ou alternativas for true, uma mensagem de retorno."
+"Ex:"
+
+
+"let fruta="Manga"
+
+
+"switch"(fruta)"
+"{
+    "case" "laranja:
+        "console.log"("suco de laranja")
+    "break"
+
+
+    "case" "banana":
+        "console.log"("vitamina de banana")
+    "break"
+
+
+    "case" "maça":
+        "console.log"("suco de maçã")
+    
+        "break"
+
+
+    "default:"
+"console.log("suco genérico")"
+}"
+"resultado"
+
+
+"suco genérico (como nenhuma opção é a certa ele vai cair no default, mostrando uma mensagem de resposta)"
+
+
+"É possível colocar dois itens em um case adicionando mais uma palavra, por exemplo adicionando mais uma fruta ao case vitamina"
+
+
+"let fruta="Morango"
+
+
+"switch(fruta)"
+"{
+    "case "laranja":"
+        "console.log("suco de laranja")"
+
+    "break"
+
+
+    "case "banana":"
+    "case "morango":"
+   
+        "console.log("vitamina")"
+    "break"
+}"
+
+
+
+"Resultado"
+"Vitamina"
+
+
+"Assim deixando mais opções em um único "case", com o switch podemos acrescentar muitas outras coisas, como "if","else" "if","else" etc"
+"O "switch case" também pode ser utilizado com números."
+
+
+Quando usar: quando você tem muitas situações que precisa testar muitas variáveis, ele não toma o lugar do else é apenas uma alternativa como ferramenta."
+
+
+
